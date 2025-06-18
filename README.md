@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Mark Angelo Atienza
 
-<!--
-**maangeloatienza/maangeloatienza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a freelance full-stack developer with 6+ years of experience building robust, scalable, and efficient web applications.
 
-Here are some ideas to get you started:
+## 💼 What I Do:
+- 🔧 Backend development with **Laravel**, **Node.js**, and **MySQL**
+- 🎨 Frontend with **Vue**, **React**, and **Tailwind CSS**
+- 🔌 API development and third-party integrations (e.g., Airtable, Twitch API, Whop)
+- 🤖 Automation and workflow optimization for marketing and internal tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect:
+- 🌐 [Portfolio or LinkedIn](https://www.linkedin.com/in/maangeloatienza/)
+- 📧 Reach me at: *maangeloatienza@gmail.com*  
+- ☕ Open to freelance, contract, or collaboration opportunities
